@@ -1,0 +1,14 @@
+{
+	"name": "",
+	"description": "",
+	"author": {
+		"name": "Torstein Thune"
+	},
+	"version": "0.0.0",
+	"engines": {
+		"node": ">=0.10.4"
+	},
+	"dependencies": {
+		"wikijs": "*"
+	}
+}
